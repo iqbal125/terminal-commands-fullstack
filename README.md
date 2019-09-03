@@ -30,6 +30,8 @@
 
 `pwd`: present working directory
 
+`psql -d name-of-db -h host-name -p port -U username`: how to connect to the psql database
+
 
 ## npm/node commands
 `node -v`: node version
