@@ -24,7 +24,7 @@
 
 `ssh i- “keypair.pem” ec2-user@public-ip-address`: ssh into linux instance.  
 
-`sudo chmod 777`: give write permission to directory
+`sudo chmod 777`: give all permissions to directory
 
 `ls`: list files and folders in pwd
 
