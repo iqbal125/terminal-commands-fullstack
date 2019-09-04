@@ -65,6 +65,8 @@
 
 `sudo nano nginx.conf`: edit nginx file
 
+`cd /etc/nginx`: cd into nginx directory
+
 `sudo nano /var/log/nginx/error.log`: access error log
 
 `sudo nginx -t`: test nginx
