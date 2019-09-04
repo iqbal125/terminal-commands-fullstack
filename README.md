@@ -42,6 +42,8 @@
 
 `nvm ls remote`: node versions available for download 
 
+`nvm install version-of-node`: install node
+
 
 ## pm2 commands
 
