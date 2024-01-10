@@ -1,5 +1,7 @@
 # Terminal Commands for fullstack course
 
+Saas template 
+https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
 
 
 ## install commands
